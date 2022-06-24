@@ -9,7 +9,7 @@
 
 ## 
 
-O aplicativo tem omo principal objetivo fornecer algumas receitas aos usuários e foi desenvolvido originalmente para a web e possui resoluções mobile.
+O aplicativo tem como principal objetivo fornecer algumas receitas aos usuários e foi desenvolvido originalmente para a web e possui resoluções mobile.
 
 Os dados da aplicação foram providos de duas APIs:
 <br>
