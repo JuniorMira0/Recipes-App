@@ -15,6 +15,7 @@ O aplicativo tem omo principal objetivo fornecer algumas receitas aos usuários 
 Os dados da aplicação foram providos de duas APIs:
 <br>
 uma para as bebidas (https://www.thecocktaildb.com/api.php)
+<br>
 e outra para as comidas (https://www.themealdb.com/api.php).
 
 Para explorar de forma completa, a aplicação está hospedada no domínio: <a target="_blank" href="https://tudibao.surge.sh">TudiBão</a>.
