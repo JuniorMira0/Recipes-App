@@ -1,7 +1,8 @@
 # Projeto Recipe App
 
 <div style="display: flex;" align="center">
-  <img src="../../images/login(1).gif" alt="Project-logo">
+  <img src="[../../images/login(1).gif](https://raw.githubusercontent.com/JuniorMira0/Recipes-App/main/src/images/login%20(1).gif
+)" alt="Project-logo">
   <img src="../../images/explore(2).gif" alt="Project-logo">
 </div>
 
