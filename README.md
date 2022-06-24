@@ -10,9 +10,11 @@
   <img src="../../images/TUDIBAO-PROGRESS.gif" alt="Project-logo">
 </div>
 
-Este foi o nosso último projeto de Front End. Para formar e nos tornarmos um Desenvolvedor Front End Jr, fomos responsáveis por desenvolver um aplicativo que tem como principal propósito prover algumas receitas para a pessoa usuária. A aplicação foi, inicialmente, desenvolvida para web, com resolução de mobile.
+O aplicativo tem omo principal objetivo fornecer algumas receitas aos usuários e foi desenvolvido originalmente para a web e possui resoluções mobile.
 
-Os dados da aplicação foram providos de duas APIs: uma para as bebidas (https://www.thecocktaildb.com/api.php) e outra para as comidas (https://www.themealdb.com/api.php).
+Os dados da aplicação foram providos de duas APIs:
+uma para as bebidas (https://www.thecocktaildb.com/api.php)
+e outra para as comidas (https://www.themealdb.com/api.php).
 
 Para explorar de forma completa, a aplicação está hospedada no domínio: <a target="_blank" href="https://tudibao.surge.sh">TudiBão</a>.
 
