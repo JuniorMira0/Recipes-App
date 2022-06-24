@@ -1,14 +1,13 @@
 # Projeto Recipe App
 
 <div style="display: flex;" align="center">
-  <img src="https://raw.githubusercontent.com/JuniorMira0/Recipes-App/main/src/images/login%20(1).gif" alt="Project-logo">
-  <img src="../../images/explore(2).gif" alt="Project-logo">
+  <img src="https://raw.githubusercontent.com/JuniorMira0/Recipes-App/main/src/images/login%20(1).gif" alt="Project-logo" width="22%">
+  <img src="https://raw.githubusercontent.com/JuniorMira0/Recipes-App/main/src/images/explore%20(2).gif" alt="Project-logo" width="22%">
+  <img src="https://raw.githubusercontent.com/JuniorMira0/Recipes-App/main/src/images/explore%20(3).gif" alt="Project-logo" width="22%">
+  <img src="https://github.com/JuniorMira0/Recipes-App/blob/main/src/images/make%20(1).gif?raw=true" alt="Project-logo" width="22%">
 </div>
 
-<div style="display: flex;" align="center">
-  <img src="../../images/explore(1).gif" alt="Project-logo">
-  <img src="../../images/make(1).gif" alt="Project-logo">
-</div>
+## 
 
 O aplicativo tem omo principal objetivo fornecer algumas receitas aos usuários e foi desenvolvido originalmente para a web e possui resoluções mobile.
 
