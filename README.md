@@ -22,6 +22,24 @@ Para explorar de forma completa, a aplicação está hospedada no domínio: <a t
 Para fins de desenvolvimento, a nossa aplicação foi toda realizada com o React e a nossa equipe optou por utilizar apenas o ContextAPI como ferramenta para gerenciar os estados globais da aplicação.
 
 ---
+# Instruções para instalar as dependencias
+
+1. Clone o repositório
+
+- `git clone git@github.com:JuniorMira0/Recipes-App.git`
+- Entre na pasta do repositório que você acabou de clonar:
+  - `cd Recipes-App`
+ 
+ 2. Instale as dependências e inicialize a aplicação
+
+- Instale as dependências:
+  - `npm install`
+- Inicialize a aplicação:
+  - `npm start`  ( porta : http://localhost:3000/)
+ 
+3.Fazendo login:
+ - `email: test@test.com`
+ - `senha: 1234567`
 
 # Habilidades
 
