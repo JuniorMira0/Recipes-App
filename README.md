@@ -18,6 +18,9 @@ uma para as bebidas (https://www.thecocktaildb.com/api.php)
 e outra para as comidas (https://www.themealdb.com/api.php).
 
 Para explorar de forma completa, a aplicação está hospedada no domínio: <a target="_blank" href="https://tudibao.surge.sh">TudiBão</a>.
+Fazendo login:
+ - `email: test@test.com`
+ - `senha: 1234567`
 
 Para fins de desenvolvimento, a nossa aplicação foi toda realizada com o React e a nossa equipe optou por utilizar apenas o ContextAPI como ferramenta para gerenciar os estados globais da aplicação.
 
