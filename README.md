@@ -227,3 +227,5 @@ Ao todo foram 87 requisitos:
 - 86: Redirecione a pessoa usuária que, ao clicar no botão de "Done Recipes", a rota deve mudar para a tela de receitas feitas;
 - 87: Redirecione a pessoa usuária que, ao clicar no botão de "Logout", o `localStorage` deve ser limpo e a rota deve mudar para a tela de login.
 </details>
+
+** Projeto desenvolvido para fins de estudos durante minha formação na Trybe.
